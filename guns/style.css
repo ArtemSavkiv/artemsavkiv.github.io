@@ -1,0 +1,102 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	background-image: url(background.jpg);
+	background-attachment: fixed;
+	background-size: cover;
+}
+}
+}
+#p1 {
+	color: white;
+	font-size: 27px;
+	text-align: center;
+}
+.content {
+	background-color: red;
+	opacity: 0.7;
+}
+img {
+	max-width: 100%;
+	max-height: 100%;
+}
+.content {
+	width: 1500px;
+	margin: 1 auto;
+	background-color: red;
+	padding: 12px;
+	opacity: 0.5;
+}
+.row {
+	display: flex;
+}
+.box {
+	width: 100px;
+	flex-grow: 1;
+	margin: 10px;
+}
+#tag {
+	color: red;
+	text-align: center;
+	padding: 15px;
+	margin: 15px;
+	font-family: fantasy ;
+	font-size: 25px;
+}
+#csgo {
+	font-size: 25px;
+}
+
+#tag2 {
+	color: black;
+	text-align: right;
+	font-size: 35px;
+	font-family: fantasy ;
+}
+#tag3 {
+	color: black;
+	font-size: 35px;
+	font-family: fantasy ;
+}
+#tag4 {
+	color: black;
+	text-align: right;
+	font-size: 35px;
+	font-family: fantasy ;
+}
+#tagg {
+	color: red;
+	text-align: center;
+	font-size: 37px;
+	font-family: fantasy;
+}
+#taggg {
+	color: red;
+	text-align: center;
+	font-size: 37px;
+	font-family: fantasy;
+	background-color: black;
+	opacity:0.8;
+}
+hr {
+	margin: 15px;
+}
+ol {
+	color:black;
+	padding: 25px;
+	font-size: 25px;
+}
+.adakadabra {
+	color: red;
+	margin: 10px;
+	font-size: 20px;
+	font-family: fantasy;
+}
